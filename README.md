@@ -62,7 +62,7 @@ References:
 
 https://www.kaggle.com/datasets/safurahajiheidari/kidney-stone-images/data (roboflow dataset
 
-https://medium.com/@huzeyfebicakci/custom-dataset-training-with-yolov10-a-deep-dive-into-the- latest-evolution-in-real-time-object-ab8c62c6af85
+https://medium.com/@huzeyfebicakci/custom-dataset-training-with-yolov10-a-deep-dive-into-the-latest-evolution-in-real-time-object-ab8c62c6af85
 
 https://medium.com/@girishajmera/fine-tuning-yolov10-for-custom-object-detection-7b12093691c8
 
