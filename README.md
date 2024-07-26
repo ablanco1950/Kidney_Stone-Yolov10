@@ -57,3 +57,12 @@ also uses the .yaml file: data.yaml. In data.yaml the absolute addresses of the 
 LOG_train_kidney_stone.docx is attached, in which it can be observed that in epoch 39 a mAP50 of 0.718 and a mAP50-95 of 0.271 are obtained
 
 as the training is carried out, with each epoch, in the runs\\train\\exp directory \\weights\\ of the project folder, the models best.pt (the supposedly best one obtained) and last.pt, the last one obtained, are saved.
+
+References:
+
+https://www.kaggle.com/datasets/safurahajiheidari/kidney-stone-images/data (roboflow dataset
+
+https://medium.com/@huzeyfebicakci/custom-dataset-training-with-yolov10-a-deep-dive-into-the- latest-evolution-in-real-time-object-ab8c62c6af85
+
+https://medium.com/@girishajmera/fine-tuning-yolov10-for-custom-object-detection-7b12093691c8
+
