@@ -59,6 +59,11 @@ LOG_train_kidney_stone.docx is attached, in which it can be observed that in epo
 as the training is carried out, with each epoch, in the runs\\train\\exp directory \\weights\\ of the project folder, the models best.pt (the supposedly best one obtained) and last.pt, the last one obtained, are saved.
 
 ![Fig1](https://github.com/ablanco1950/Kidney_Stone-Yolov10/blob/main/Figure_1.png)
+![Fig2](https://github.com/ablanco1950/Kidney_Stone-Yolov10/blob/main/Figure_2.png)
+![Fig3](https://github.com/ablanco1950/Kidney_Stone-Yolov10/blob/main/Figure_3.png)
+![Fig4](https://github.com/ablanco1950/Kidney_Stone-Yolov10/blob/main/Figure_4.png)
+![Fig5](https://github.com/ablanco1950/Kidney_Stone-Yolov10/blob/main/Figure_5.png)
+![Fig6](https://github.com/ablanco1950/Kidney_Stone-Yolov10/blob/main/Figure_6.png)
 
 References:
 
