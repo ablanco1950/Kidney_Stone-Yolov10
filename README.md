@@ -58,6 +58,8 @@ LOG_train_kidney_stone.docx is attached, in which it can be observed that in epo
 
 as the training is carried out, with each epoch, in the runs\\train\\exp directory \\weights\\ of the project folder, the models best.pt (the supposedly best one obtained) and last.pt, the last one obtained, are saved.
 
+![texto cualquiera por si no carga la imagen](url completa de la imagen)
+
 References:
 
 https://www.kaggle.com/datasets/safurahajiheidari/kidney-stone-images/data (roboflow dataset
