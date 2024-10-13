@@ -67,6 +67,8 @@ A test with the first 6 images of  120 images that make up the test file, in red
 ![Fig5](https://github.com/ablanco1950/Kidney_Stone-Yolov10/blob/main/Figure_5.png)
 ![Fig6](https://github.com/ablanco1950/Kidney_Stone-Yolov10/blob/main/Figure_6.png)
 
+Messages appear on the console indicating how many stones have been detected and how many are labeleded. In the last image it seems that a false positive has been detected and there are more stones detected than labeled.
+
 References:
 
 https://www.kaggle.com/datasets/safurahajiheidari/kidney-stone-images/data (roboflow dataset
